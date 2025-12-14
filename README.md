@@ -1,9 +1,20 @@
+![image](https://github.com/mytechnotalent/HackingGPT-6/blob/main/HackingGPT.png?raw=true)
+
+## FREE Reverse Engineering Self-Study Course [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial)
+
+<br>
+
 # HackingGPT
 ## Part 6
 Part 6 covers full self-attention with Query, Key, and Value projections, the complete attention mechanism with data-dependent weights, scaled attention to prevent peaky softmax, and layer normalization for training stability.
 
 #### Author: [Kevin Thomas](mailto:ket189@pitt.edu)
 
+<br>
+
+## Part 5 [HERE](https://github.com/mytechnotalent/HackingGPT-4)
+
+<br><br>
 
 ```python
 import torch
