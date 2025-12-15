@@ -13,6 +13,7 @@ Part 6 covers full self-attention with Query, Key, and Value projections, the co
 <br>
 
 ## Part 5 [HERE](https://github.com/mytechnotalent/HackingGPT-4)
+## Part 7 [HERE](https://github.com/mytechnotalent/HackingGPT-7)
 
 <br><br>
 
